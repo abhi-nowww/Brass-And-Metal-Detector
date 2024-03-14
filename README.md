@@ -14,18 +14,18 @@ Make sure you have the following dependencies installed:
 
 ## Usage
 
-- Training
-Mount Google Drive: The code expects the dataset to be stored in Google Drive
+- Training :
+Mount Google Drive
 Navigate to the directory where your dataset is stored
 Train the YOLOv8 model using the provided dataset
 
-- Validation
+- Validation : 
 After training, you can validate the trained model on a validation dataset just select the mode = val
 
-- Prediction
+- Prediction :
 Start making the  predictions on new images using the trained model selectin the model and providing the image
 
-- Viewing Predictions
+- Viewing Predictions :
 The predictions made by the model on test images will be stored in the directory: /content/drive/MyDrive/Class/Yolo_V8/runs/detect/predict.
 
 ## NOTE
