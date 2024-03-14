@@ -4,7 +4,7 @@ This repository contains code for performing object detection using YOLOv8 model
 
 ## Overview
 
-This project utilizes YOLOv8, a state-of-the-art object detection model, for detecting objects in images. The code provides functionalities for training the model on a custom dataset, validating the trained model, and making predictions on new images.
+This project utilizes YOLOv8, a state-of-the-art object detection model, for detecting objects in images. The code provides functionalities for training the model on a custom dataset, validating the trained model, and making predictions on new images. For generating the Annotation of images i have done this through app.cvat.ai
 
 ## Dependencies
 
