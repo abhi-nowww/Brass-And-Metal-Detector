@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Class/Yolo_V8/data/train/images
+val: /content/drive/MyDrive/Class/Yolo_V8/data/valid/images
+
+nc: 3
+names: ['Brass','Steel Metal','Non-metal']
